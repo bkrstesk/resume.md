@@ -1,9 +1,9 @@
 # BOBAN KRSTESKI
 
-<center><a href="mailto:mail@bobankrsteski.com">mail@bobankrsteski.com</a></center>
-<center><a href="https://bobankrsteski.com">bobankrsteski.com</a></center>
-<center><a href="tel:(219) 775-4174">(219) 775-4174</a></center>
-<center><a href="https://linkedin.com/in/bobankrsteski">linkedin.com/in/bobankrsteski</a></center>
+- [mail@bobankrsteski.com](mailto:mail@bobankrsteski.com)
+- [bobankrsteski.com](https://bobankrsteski.com)
+- [(219) 775-4174](tel:(219) 775-4174)
+- [linkedin.com/in/bobankrsteski](https://linkedin.com/in/bobankrsteski)
 
 ## PROFILE
 
@@ -13,23 +13,33 @@ Motivated and diligent problem-solver with advanced analytic skills and a thorou
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
+
 <div class="w3-row">
- <div class="w3-col m5 w3-left">Strategy Analysis</div>
- <div class="w3-col m4 w3-right">Evaluation and Solution</div>
+  <div class="w3-half w3-center">&#8226 Strategy Analysis</div>
+  <div class="w3-half w3-center">&#8226 Evaluation and Solution</div>
 </div>
 
+<div class="w3-row">
+  <div class="w3-half w3-left">&#8226 Process Engineering, Improvement and Management</div>
+  <div class="w3-half w3-left">&#8226 User Acceptance Testing (UAT)</div>
+</div>
 
-<span>Strategy Analysis</span> <span>Evaluation and Solution</span>
+<div class="w3-row">
+  <div class="w3-col m6 w3-left">&#8226 Business Analysis, Planning & Monitoring</div>
+  <div class="w3-col m6 w3-left">&#8226 Requirements Life Cycle Management</div>
+</div>
 
-### Process Engineering, Improvement and Management
-### User Acceptance Testing (UAT)
-### Product, Project, Program & Portfolio Management
-### Business Analysis, Planning & Monitoring
-### Requirements Life Cycle Management
-### Forecasting, Scorecards, and Analytics
-### IT Service and Change Management
+<div class="w3-row">
+  <div class="w3-col m6 w3-left">&#8226 Forecasting, Scorecards, and Analytics</div>
+  <div class="w3-col m6 w3-left">&#8226 IT Service and Change Management</div>
+</div>
 
-## Experience
+<div class="w3-row">
+  <div class="w3-mobile w3-left">&#8226 Forecasting, Scorecards, and Analytics</div>
+  <div class="w3-mobile w3-left">&#8226 IT Service and Change Management</div>
+</div>
+
+## PROFESSIONAL EXPERIENCE
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
@@ -51,7 +61,7 @@ Global movement of free coding clubs for young people.
 
  - Awarded 'Teacher of the Month'
 
-## Projects
+## EDUCATION
 
 ### <span>Miss Direction</span> <span>Aug 2016</span>
 
@@ -61,7 +71,7 @@ A mapping engine that misguides you:
    - Built by all women team of newbie programmers
    - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
 
-## Education
+## TECHNICAL SKILLS
 
 ### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
 
@@ -69,7 +79,7 @@ A mapping engine that misguides you:
   - DB1101 - Basic SQL
   - CS2011 - Java Introduction
 
-## Skills
+## PROFESSIONAL DEVELOPMENT
 
  - Web development: HTML, CSS, JavaScript
  - Compression: Mpeg, MP4, GIF
