@@ -11,12 +11,9 @@ Motivated and diligent problem-solver with advanced analytic skills and a thorou
 
 ## CORE COMPETENCIES
 
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
-
 <div class="w3-row">
-  <div class="w3-half w3-center">&#8226 Strategy Analysis</div>
-  <div class="w3-half w3-center">&#8226 Evaluation and Solution</div>
+  <div class="w3-half w3-left">&#8226 Strategy Analysis</div>
+  <div class="w3-half w3-left">&#8226 Evaluation and Solution</div>
 </div>
 
 <div class="w3-row">
@@ -25,18 +22,18 @@ Motivated and diligent problem-solver with advanced analytic skills and a thorou
 </div>
 
 <div class="w3-row">
-  <div class="w3-col m6 w3-left">&#8226 Business Analysis, Planning & Monitoring</div>
-  <div class="w3-col m6 w3-left">&#8226 Requirements Life Cycle Management</div>
+  <div class="w3-half w3-left">&#8226 Business Analysis, Planning & Monitoring</div>
+  <div class="w3-half w3-left">&#8226 Requirements Life Cycle Management</div>
 </div>
 
 <div class="w3-row">
-  <div class="w3-col m6 w3-left">&#8226 Forecasting, Scorecards, and Analytics</div>
-  <div class="w3-col m6 w3-left">&#8226 IT Service and Change Management</div>
+  <div class="w3-half w3-left">&#8226 Forecasting, Scorecards, and Analytics</div>
+  <div class="w3-half w3-left">&#8226 IT Service and Change Management</div>
 </div>
 
 <div class="w3-row">
-  <div class="w3-mobile w3-left">&#8226 Forecasting, Scorecards, and Analytics</div>
-  <div class="w3-mobile w3-left">&#8226 IT Service and Change Management</div>
+  <div class="w3-half w3-left">&#8226 Forecasting, Scorecards, and Analytics</div>
+  <div class="w3-half w3-left">&#8226 IT Service and Change Management</div>
 </div>
 
 ## PROFESSIONAL EXPERIENCE
