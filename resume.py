@@ -42,6 +42,7 @@ CHROME_GUESSES_MACOS = (
 # https://stackoverflow.com/a/40674915/409879
 CHROME_GUESSES_WINDOWS = (
     # Windows 10
+    os.path.expandvars(r"%ProgramFiles%\BraveSoftware\Brave-Browser\Application\brave.exe"),
     os.path.expandvars(r"%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe"),
     os.path.expandvars(r"%ProgramFiles%\Google\Chrome\Application\chrome.exe"),
     os.path.expandvars(r"%LocalAppData%\Google\Chrome\Application\chrome.exe"),
