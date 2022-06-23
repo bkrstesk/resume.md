@@ -1,18 +1,33 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# BOBAN KRSTESKI
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+<center><a href="mailto:mail@bobankrsteski.com">mail@bobankrsteski.com</a></center>
+<center><a href="https://bobankrsteski.com">bobankrsteski.com</a></center>
+<center><a href="tel:(219) 775-4174">(219) 775-4174</a></center>
+<center><a href="https://linkedin.com/in/bobankrsteski">linkedin.com/in/bobankrsteski</a></center>
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+## PROFILE
+
+Motivated and diligent problem-solver with advanced analytic skills and a thorough understanding of the Systems Development Life Cycle. Proven success at identifying, evaluating, and regulating change, business challenges, opportunities, and revenue streams. Valued and detail-oriented team player, seeking to optimize enterprise performance by leveraging excellent communication, interpersonal, and quantitative skills in an information-driven role
+
+## CORE COMPETENCIES
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<div class="w3-row">
+ <div class="w3-col m5 w3-left">Strategy Analysis</div>
+ <div class="w3-col m4 w3-right">Evaluation and Solution</div>
+</div>
+
+
+<span>Strategy Analysis</span> <span>Evaluation and Solution</span>
+
+### Process Engineering, Improvement and Management
+### User Acceptance Testing (UAT)
+### Product, Project, Program & Portfolio Management
+### Business Analysis, Planning & Monitoring
+### Requirements Life Cycle Management
+### Forecasting, Scorecards, and Analytics
+### IT Service and Change Management
 
 ## Experience
 
